@@ -1,0 +1,134 @@
+{
+  "Header": {
+    "title": "Lotes Chapada ",
+    "paragraph": "Selvagem não é quem vive na natureza, selvagem é quem a destrói!"
+  },
+  "Sobre": {
+    "paragraph": "Chapada Diamantina é uma região de serras, protegida na categoria de parque nacional, situada no centro do estado brasileiro da Bahia, onde nascem quase todos os rios das bacias do Paraguaçu, do Jacuípe e do Rio de Contas. Estas correntes de águas brotam nos cumes e deslizam pelo relevo em belos regatos, despencam em borbulhantes cachoeiras e formam transparentes piscinas naturais. O parque nacional é administrado pelo Instituto Chico Mendes de Conservação da Biodiversidade.",
+    "Why": [
+      "Mata virgem",
+      "Água da nascete",
+      "Ponto de Energia",
+      "Internet"
+    ],
+    "Why2": [
+      "Faça você mesmo",
+      "Contato direto com natureza",
+      "Encontre sossego",
+      "Você precisará de transporte kk"
+    ]
+  },
+  "Portfolio": [
+    {
+      "title": "Projeto de Rancho",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Projeto de Barraco ",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Projeto Casa de Apoio",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Projeto Água",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Projeto Luz",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Projeto Limpeza",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Projeto Lotes",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Projeto Casa central",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Projeto Dormitório",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Servicos": [
+    {
+      "icon": "fa fa-github",
+      "name": "Gerencia de código",
+      "text": "Essencial para colaborar e aprender"
+    },
+    {
+      "icon": "fa fa-windows",
+      "name": "Manutenção de SO",
+      "text": "É fundamental um bom entendimento em SO."
+    },
+    {
+      "icon": "fa fa-terminal",
+      "name": "Usar um Prompt",
+      "text": "Se não usa, provavelmente não programa!"
+    },
+    {
+      "icon": "fa fa-gears",
+      "name": "Configurar",
+      "text": "Um ambiente bem configurado garante um bom desenpenho"
+    },
+    {
+      "icon": "fa fa-cup",
+      "name": "Fazer café",
+      "text": "Bem! Tenha sempre um café ao lado!!!"
+    },
+    {
+      "icon": "fa fa-key",
+      "name": "A chave",
+      "text": "A chave é a dedicação!"
+    }
+  ],
+  
+  "Contato": {
+    "endereco": "Igatu-Chapada-Diamantina-BA",
+    "telefone": "+55 (75) 9298-8715",
+    "email": " guilhermeigatu99@gmail.com",
+
+    "facebook": "https://www.facebook.com/guilhermeSik",
+    "instagram": "https://www.instagram.com/gui_techinfo/",
+    "github": "https://github.com/guilherme-sik",
+    "linkedin": "https://www.linkedin.com/in/guilherme-santos-38b562206/"
+    
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Comunicação",
+      "text": "A comunicação é muito poderosa dentro de uma squad de desenvolvimento. Tudo dito deve ser levado em consideração!"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Adaptabilidade",
+      "text": "Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Trabalho em equipe",
+      "text": "Se quiser ir rápido, vá sozinho. Se quiser ir longe, vá em grupo"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Abstração",
+      "text": "A abstração tem o poder de lhe conseguir o que bem tem pensado."
+    }
+  ]
+}
