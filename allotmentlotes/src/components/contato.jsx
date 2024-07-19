@@ -85,7 +85,7 @@ export const Contact = (props) => {
                   <textarea name='message' id='message' className='form-control'rows='4' placeholder='Mensagem' required onChange={handleChange}>
 
                   </textarea>
-                  <p className='help-block text-danger'>     aqui não tem nada </p>
+                  <p className='help-block text-danger'></p>
                
                 </div>
                 <div id='success'>
